@@ -1,18 +1,13 @@
-# Tune4u
+# InfiniteLearningSpace
 `TuneHack 2023 - By Overflowing Feature`
-- A Revolutionary Customer Loyalty Engagement Program for all people particularly targetting digital iliterate & disabled people.
+- A Revolutionary Learning Experience
 
 # Feature
-- Tune4u Chat (A chatbot that answer everything)
+- InfiniteLearningSpace Chat (A chatbot that answer everything)
 - Easter Egg (Rewards while educating)
 
 # Prototype
 ## Hosting Website
-- https://overflowingfeature.firebaseapp.com/
-- https://overflowingfeature.web.app/
-- https://tune4u.jingjietan.com/
-
 ## Android Application Package (APK)
-- In this repository.
 
 
