@@ -1,13 +1,13 @@
 # InfiniteLearningSpace
-`TuneHack 2023 - By Overflowing Feature`
 - A Revolutionary Learning Experience
 
 # Feature
-- InfiniteLearningSpace Chat (A chatbot that answer everything)
-- Easter Egg (Rewards while educating)
+- InfiniteChat (A chatbot that answer everything)
+- InfiniteEgg (Rewards while educating)
 
 # Prototype
 ## Hosting Website
-https://infinitelearningspace.web.app/
+https://infinitelearningspace.web.app
+https://infinitelearningspace.jingjietan.com
 
 
