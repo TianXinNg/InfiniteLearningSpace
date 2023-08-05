@@ -7,7 +7,7 @@
 
 # Prototype
 ## Hosting Website
-https://infinitelearningspace.web.app
-https://infinitelearningspace.jingjietan.com
+- https://infinitelearningspace.web.app
+- https://infinitelearningspace.jingjietan.com
 
 
